@@ -1,0 +1,632 @@
+fileFormatVersion: 2
+guid: ac0f35cff2c29c34b93e610826933b28
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3209007933599591220
+    second: ForrestEnemies3_0
+  - first:
+      213: 267383527796293328
+    second: ForrestEnemies3_1
+  - first:
+      213: 5744664486559827519
+    second: ForrestEnemies3_2
+  - first:
+      213: -1852614327727662841
+    second: ForrestEnemies3_3
+  - first:
+      213: 5528173668804435162
+    second: ForrestEnemies3_4
+  - first:
+      213: -7981175748909137231
+    second: ForrestEnemies3_5
+  - first:
+      213: 5777801354436214660
+    second: ForrestEnemies3_6
+  - first:
+      213: -2383752352114253049
+    second: ForrestEnemies3_7
+  - first:
+      213: -189297646342992712
+    second: ForrestEnemies3_8
+  - first:
+      213: 7314341767945659891
+    second: ForrestEnemies3_9
+  - first:
+      213: 8426593803094390148
+    second: ForrestEnemies3_10
+  - first:
+      213: -2565005680937743754
+    second: ForrestEnemies3_11
+  - first:
+      213: -7461005887155762935
+    second: ForrestEnemies3_12
+  - first:
+      213: 1454339554251673691
+    second: ForrestEnemies3_13
+  - first:
+      213: 6452264788331104128
+    second: ForrestEnemies3_14
+  - first:
+      213: 2999340539885651277
+    second: ForrestEnemies3_15
+  - first:
+      213: 8876378575004297455
+    second: ForrestEnemies3_16
+  - first:
+      213: 8834423100160492809
+    second: ForrestEnemies3_17
+  - first:
+      213: 7286714270234822052
+    second: ForrestEnemies3_18
+  - first:
+      213: 2727142259710601664
+    second: ForrestEnemies3_19
+  - first:
+      213: 384619581064706770
+    second: ForrestEnemies3_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ForrestEnemies3_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 864
+        width: 129
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4d26459405773d0800000000000000
+      internalID: -3209007933599591220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForrestEnemies3_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 797
+        width: 61
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0deb611e6efe5b300800000000000000
+      internalID: 267383527796293328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForrestEnemies3_2
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 872
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36433bf9e529bf40800000000000000
+      internalID: 5744664486559827519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForrestEnemies3_3
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 822
+        width: 27
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7095ef1a5113a46e0800000000000000
+      internalID: -1852614327727662841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForrestEnemies3_4
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 545
+        width: 93
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc91c989a408bc40800000000000000
+      internalID: 5528173668804435162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForrestEnemies3_5
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 815
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b20f4441fa2d3190800000000000000
+      internalID: -7981175748909137231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForrestEnemies3_6
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 815
+        width: 16
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ff0f148bfde2050800000000000000
+      internalID: 5777801354436214660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForrestEnemies3_7
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 832
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7036abb8dd53beed0800000000000000
+      internalID: -2383752352114253049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForrestEnemies3_8
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 648
+        width: 137
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc88e82bca7f5df0800000000000000
+      internalID: -189297646342992712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForrestEnemies3_9
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 524
+        width: 586
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5243cb513c18560800000000000000
+      internalID: 7314341767945659891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForrestEnemies3_10
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 382
+        width: 116
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485f2fbfa6641f470800000000000000
+      internalID: 8426593803094390148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForrestEnemies3_11
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 72
+        width: 156
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ac8d45ce4476cd0800000000000000
+      internalID: -2565005680937743754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForrestEnemies3_12
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 300
+        width: 110
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9098bfcfcae257890800000000000000
+      internalID: -7461005887155762935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForrestEnemies3_13
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 286
+        width: 142
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5098f18e1ade2410800000000000000
+      internalID: 1454339554251673691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForrestEnemies3_14
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 221
+        width: 133
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0878c31b3ac0b8950800000000000000
+      internalID: 6452264788331104128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForrestEnemies3_15
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 322
+        width: 113
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d450050745ccf9920800000000000000
+      internalID: 2999340539885651277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForrestEnemies3_16
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 328
+        width: 137
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8e40fe84b3f2b70800000000000000
+      internalID: 8876378575004297455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForrestEnemies3_17
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 121
+        width: 62
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9054298b00d2a9a70800000000000000
+      internalID: 8834423100160492809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForrestEnemies3_18
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 119
+        width: 68
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5cd19a50c9f1560800000000000000
+      internalID: 7286714270234822052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForrestEnemies3_19
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 19
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9a10aaf61c8d520800000000000000
+      internalID: 2727142259710601664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForrestEnemies3_20
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 13
+        width: 71
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da750f9871765500800000000000000
+      internalID: 384619581064706770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

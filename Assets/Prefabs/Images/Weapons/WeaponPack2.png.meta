@@ -1,0 +1,1097 @@
+fileFormatVersion: 2
+guid: 6f464c537efb79a4e8514ab9a17cd4dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3928365252505613356
+    second: WeaponPack2_0
+  - first:
+      213: -1045861258341518850
+    second: WeaponPack2_1
+  - first:
+      213: -896634865703409904
+    second: WeaponPack2_2
+  - first:
+      213: -8354842821008932041
+    second: WeaponPack2_3
+  - first:
+      213: -342915012298471385
+    second: WeaponPack2_4
+  - first:
+      213: -1808980648041446348
+    second: WeaponPack2_5
+  - first:
+      213: -3186913144053038997
+    second: WeaponPack2_6
+  - first:
+      213: 6991070866825641077
+    second: WeaponPack2_7
+  - first:
+      213: -1855618195296607502
+    second: WeaponPack2_8
+  - first:
+      213: -1824080483814435580
+    second: WeaponPack2_9
+  - first:
+      213: -2474264942554818699
+    second: WeaponPack2_10
+  - first:
+      213: 4651071089298289127
+    second: WeaponPack2_11
+  - first:
+      213: -944250726425524232
+    second: WeaponPack2_12
+  - first:
+      213: -3125438292580259008
+    second: WeaponPack2_13
+  - first:
+      213: -8475384549774349499
+    second: WeaponPack2_14
+  - first:
+      213: -5474547701777968412
+    second: WeaponPack2_15
+  - first:
+      213: 706245712614791713
+    second: WeaponPack2_16
+  - first:
+      213: -5911248786987344810
+    second: WeaponPack2_17
+  - first:
+      213: -1456293898675300738
+    second: WeaponPack2_18
+  - first:
+      213: 4675218603020083470
+    second: WeaponPack2_19
+  - first:
+      213: -809898980217799574
+    second: WeaponPack2_20
+  - first:
+      213: 6449681493061937846
+    second: WeaponPack2_21
+  - first:
+      213: -653460524581843374
+    second: WeaponPack2_22
+  - first:
+      213: 5353295853856454347
+    second: WeaponPack2_23
+  - first:
+      213: 8494800036861526010
+    second: WeaponPack2_24
+  - first:
+      213: 3206868403506599255
+    second: WeaponPack2_25
+  - first:
+      213: 6137697259934135880
+    second: WeaponPack2_26
+  - first:
+      213: 7830205411201253345
+    second: WeaponPack2_27
+  - first:
+      213: -7861390677037380679
+    second: WeaponPack2_28
+  - first:
+      213: 7309074418781887302
+    second: WeaponPack2_29
+  - first:
+      213: 755628040537898240
+    second: WeaponPack2_30
+  - first:
+      213: -5684719757567485036
+    second: WeaponPack2_31
+  - first:
+      213: -9131255525327384954
+    second: WeaponPack2_32
+  - first:
+      213: 3546151136575868393
+    second: WeaponPack2_33
+  - first:
+      213: 4868433916526308463
+    second: WeaponPack2_34
+  - first:
+      213: -3363317382436509591
+    second: WeaponPack2_35
+  - first:
+      213: 1455636688208392020
+    second: WeaponPack2_36
+  - first:
+      213: -1932177745873374099
+    second: WeaponPack2_37
+  - first:
+      213: 4510940311355206605
+    second: WeaponPack2_38
+  - first:
+      213: -6165485257780818071
+    second: WeaponPack2_39
+  - first:
+      213: 156988073387325828
+    second: WeaponPack2_40
+  - first:
+      213: 5955420114062929937
+    second: WeaponPack2_41
+  - first:
+      213: 4366958413904620354
+    second: WeaponPack2_42
+  - first:
+      213: -2555963870213465376
+    second: WeaponPack2_43
+  - first:
+      213: 499082090790205528
+    second: WeaponPack2_44
+  - first:
+      213: 689621733099854982
+    second: WeaponPack2_45
+  - first:
+      213: 3795270410787966923
+    second: WeaponPack2_46
+  - first:
+      213: -7125941858652226605
+    second: WeaponPack2_47
+  - first:
+      213: -2784732825663747219
+    second: WeaponPack2_48
+  - first:
+      213: 8978343744312962549
+    second: WeaponPack2_49
+  - first:
+      213: -3198333369856358877
+    second: WeaponPack2_50
+  - first:
+      213: -7167793930500880579
+    second: WeaponPack2_51
+  - first:
+      213: 2336335621708404267
+    second: WeaponPack2_52
+  - first:
+      213: 6457215683715742662
+    second: WeaponPack2_53
+  - first:
+      213: 8835337571574165841
+    second: WeaponPack2_54
+  - first:
+      213: -6889766067950837006
+    second: WeaponPack2_55
+  - first:
+      213: -4367529154863287158
+    second: WeaponPack2_56
+  - first:
+      213: 14808874485242787
+    second: WeaponPack2_57
+  - first:
+      213: 6400355248786518041
+    second: WeaponPack2_58
+  - first:
+      213: 704386210575849803
+    second: WeaponPack2_59
+  - first:
+      213: -3766550031856009143
+    second: WeaponPack2_60
+  - first:
+      213: 1827252469850100229
+    second: WeaponPack2_61
+  - first:
+      213: 8625841646793081302
+    second: WeaponPack2_62
+  - first:
+      213: 3203380036540531958
+    second: WeaponPack2_63
+  - first:
+      213: 7181407677727508491
+    second: WeaponPack2_64
+  - first:
+      213: -4921487996101952894
+    second: WeaponPack2_65
+  - first:
+      213: 7351422456714468239
+    second: WeaponPack2_66
+  - first:
+      213: -4559062348812932156
+    second: WeaponPack2_67
+  - first:
+      213: 878240010519453979
+    second: WeaponPack2_68
+  - first:
+      213: -2865192928648257622
+    second: WeaponPack2_69
+  - first:
+      213: 1236715311699203341
+    second: WeaponPack2_70
+  - first:
+      213: -1292471239900047596
+    second: WeaponPack2_71
+  - first:
+      213: 1071049054415791397
+    second: WeaponPack2_72
+  - first:
+      213: 5874474561778362809
+    second: WeaponPack2_73
+  - first:
+      213: -6062441423737639287
+    second: WeaponPack2_74
+  - first:
+      213: 3402771325946304540
+    second: WeaponPack2_75
+  - first:
+      213: 3524094370741764886
+    second: WeaponPack2_76
+  - first:
+      213: -6688321589810366687
+    second: WeaponPack2_77
+  - first:
+      213: -5788672311922148727
+    second: WeaponPack2_78
+  - first:
+      213: -3198456706103923364
+    second: WeaponPack2_79
+  - first:
+      213: -2866944361244332401
+    second: WeaponPack2_80
+  - first:
+      213: -4583324213007057754
+    second: WeaponPack2_81
+  - first:
+      213: 5080715133619295131
+    second: WeaponPack2_82
+  - first:
+      213: -2444963551584721193
+    second: WeaponPack2_83
+  - first:
+      213: 1080445594181652870
+    second: WeaponPack2_84
+  - first:
+      213: -2597934061167285516
+    second: WeaponPack2_85
+  - first:
+      213: -4652579995210237532
+    second: WeaponPack2_86
+  - first:
+      213: 6638559601845908746
+    second: WeaponPack2_87
+  - first:
+      213: -6629188320606329938
+    second: WeaponPack2_88
+  - first:
+      213: -8712268137607206947
+    second: WeaponPack2_89
+  - first:
+      213: 4721544810110621567
+    second: WeaponPack2_90
+  - first:
+      213: 8119659990769610087
+    second: WeaponPack2_91
+  - first:
+      213: -8546557769831460934
+    second: WeaponPack2_92
+  - first:
+      213: -2874532294871451230
+    second: WeaponPack2_93
+  - first:
+      213: 2334079049919976488
+    second: WeaponPack2_94
+  - first:
+      213: 7131304197243961951
+    second: WeaponPack2_95
+  - first:
+      213: -3991587270556712100
+    second: WeaponPack2_96
+  - first:
+      213: -9027476412560722949
+    second: WeaponPack2_97
+  - first:
+      213: -6734941113766908230
+    second: WeaponPack2_98
+  - first:
+      213: 5662784602598784977
+    second: WeaponPack2_99
+  - first:
+      213: -3865451218461033000
+    second: WeaponPack2_100
+  - first:
+      213: -3796724717145746720
+    second: WeaponPack2_101
+  - first:
+      213: -6262901133768720163
+    second: WeaponPack2_102
+  - first:
+      213: -4647838196634762171
+    second: WeaponPack2_103
+  - first:
+      213: 3666703788713091
+    second: WeaponPack2_104
+  - first:
+      213: 8632827888912392832
+    second: WeaponPack2_105
+  - first:
+      213: 8435680295121622891
+    second: WeaponPack2_106
+  - first:
+      213: -4062475753439075731
+    second: WeaponPack2_107
+  - first:
+      213: -5196684092693502892
+    second: WeaponPack2_108
+  - first:
+      213: 6990289625479576503
+    second: WeaponPack2_109
+  - first:
+      213: 5278132544372813011
+    second: WeaponPack2_110
+  - first:
+      213: -264846506995216961
+    second: WeaponPack2_111
+  - first:
+      213: -763185801083525042
+    second: WeaponPack2_112
+  - first:
+      213: 3162701260486016213
+    second: WeaponPack2_113
+  - first:
+      213: -5103376651609174382
+    second: WeaponPack2_114
+  - first:
+      213: 2622619529629732233
+    second: WeaponPack2_115
+  - first:
+      213: 7707054047317703401
+    second: WeaponPack2_116
+  - first:
+      213: -1221988282344491103
+    second: WeaponPack2_117
+  - first:
+      213: -4820189176860576225
+    second: WeaponPack2_118
+  - first:
+      213: -1097507136992498837
+    second: WeaponPack2_119
+  - first:
+      213: 4539861928636801243
+    second: WeaponPack2_120
+  - first:
+      213: 1280633935128119673
+    second: WeaponPack2_121
+  - first:
+      213: -6569613680841465792
+    second: WeaponPack2_122
+  - first:
+      213: 8244296385257757411
+    second: WeaponPack2_123
+  - first:
+      213: -7190954111499570704
+    second: WeaponPack2_124
+  - first:
+      213: -8930949485799621207
+    second: WeaponPack2_125
+  - first:
+      213: 653968916978270056
+    second: WeaponPack2_126
+  - first:
+      213: -3442017534497690953
+    second: WeaponPack2_127
+  - first:
+      213: -8284844342360602543
+    second: WeaponPack2_128
+  - first:
+      213: 2165532165463821622
+    second: WeaponPack2_129
+  - first:
+      213: -3152258491635971350
+    second: WeaponPack2_130
+  - first:
+      213: -5920833923215467916
+    second: WeaponPack2_131
+  - first:
+      213: -7890202443383395372
+    second: WeaponPack2_132
+  - first:
+      213: -7247842614310327491
+    second: WeaponPack2_133
+  - first:
+      213: 5775307547484228508
+    second: WeaponPack2_134
+  - first:
+      213: 4918409840045394953
+    second: WeaponPack2_135
+  - first:
+      213: -5073993456675667191
+    second: WeaponPack2_136
+  - first:
+      213: -5429520510117347365
+    second: WeaponPack2_137
+  - first:
+      213: -1568639291440725404
+    second: WeaponPack2_138
+  - first:
+      213: -4812633443256970905
+    second: WeaponPack2_139
+  - first:
+      213: 400747041415319547
+    second: WeaponPack2_140
+  - first:
+      213: -1203729760197665463
+    second: WeaponPack2_141
+  - first:
+      213: -9191452992848012684
+    second: WeaponPack2_142
+  - first:
+      213: -2677946119856709193
+    second: WeaponPack2_143
+  - first:
+      213: -3255035926612726445
+    second: WeaponPack2_144
+  - first:
+      213: -5213325148228413104
+    second: WeaponPack2_145
+  - first:
+      213: 4507631942091117388
+    second: WeaponPack2_146
+  - first:
+      213: 1737255666507829944
+    second: WeaponPack2_147
+  - first:
+      213: 4244049158819547959
+    second: WeaponPack2_148
+  - first:
+      213: -2497328233409502631
+    second: WeaponPack2_149
+  - first:
+      213: -8948525886979598226
+    second: WeaponPack2_150
+  - first:
+      213: -8705458248838305024
+    second: WeaponPack2_151
+  - first:
+      213: 1195649890936414925
+    second: WeaponPack2_152
+  - first:
+      213: 7949658420824961308
+    second: WeaponPack2_153
+  - first:
+      213: -913320135836820515
+    second: WeaponPack2_154
+  - first:
+      213: 515878066475841336
+    second: WeaponPack2_155
+  - first:
+      213: -6976364627153686907
+    second: WeaponPack2_156
+  - first:
+      213: 7887154692455163586
+    second: WeaponPack2_157
+  - first:
+      213: 443371629835757712
+    second: WeaponPack2_158
+  - first:
+      213: -7798832028911312338
+    second: WeaponPack2_159
+  - first:
+      213: -2405492309808073540
+    second: WeaponPack2_160
+  - first:
+      213: 8291753770130874700
+    second: WeaponPack2_161
+  - first:
+      213: 2475371355751619461
+    second: WeaponPack2_162
+  - first:
+      213: -7291776583282049200
+    second: WeaponPack2_163
+  - first:
+      213: -4412515855624197600
+    second: WeaponPack2_164
+  - first:
+      213: -1928791579201992949
+    second: WeaponPack2_165
+  - first:
+      213: -7997893224610792706
+    second: WeaponPack2_166
+  - first:
+      213: 8757713418912876046
+    second: WeaponPack2_167
+  - first:
+      213: 8859351633490769752
+    second: WeaponPack2_168
+  - first:
+      213: -950406504721868123
+    second: WeaponPack2_169
+  - first:
+      213: 5001330082904984822
+    second: WeaponPack2_170
+  - first:
+      213: -7371616431480270197
+    second: WeaponPack2_171
+  - first:
+      213: 2709069105372445058
+    second: WeaponPack2_172
+  - first:
+      213: -7961053428805382472
+    second: WeaponPack2_173
+  - first:
+      213: -781616519342620808
+    second: WeaponPack2_174
+  - first:
+      213: -7118270315045079716
+    second: WeaponPack2_175
+  - first:
+      213: -6660829938368774108
+    second: WeaponPack2_176
+  - first:
+      213: -8066490760574591862
+    second: WeaponPack2_177
+  - first:
+      213: -2255154028268533
+    second: WeaponPack2_178
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WeaponPack2_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 755
+        width: 129
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db4a60cd94ab79c0800000000000000
+      internalID: -3928365252505613356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponPack2_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 676
+        width: 163
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1f53c0aba5c71f0800000000000000
+      internalID: -1045861258341518850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponPack2_2
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 671
+        width: 163
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017a48817538e83f0800000000000000
+      internalID: -896634865703409904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponPack2_3
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 654
+        width: 47
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7334a8b58b2ad0c80800000000000000
+      internalID: -8354842821008932041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponPack2_4
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 476
+        width: 71
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7280dc7fc98bd3bf0800000000000000
+      internalID: -342915012298471385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponPack2_5
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 677
+        width: 219
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4340feb5fa535e6e0800000000000000
+      internalID: -1808980648041446348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponPack2_6
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 517
+        width: 149
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6002b6616fc5c3d0800000000000000
+      internalID: -3186913144053038997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponPack2_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 572
+        width: 65
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c79b0c9e5450160800000000000000
+      internalID: 6991070866825641077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponPack2_76
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 222
+        width: 54
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6134403a82918e030800000000000000
+      internalID: 3524094370741764886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponPack2_83
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 230
+        width: 196
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6e3039a9eb11ed0800000000000000
+      internalID: -2444963551584721193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponPack2_84
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 273
+        width: 180
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68155502b838efe00800000000000000
+      internalID: 1080445594181652870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponPack2_85
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 355
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa6c3e5cb842fbd0800000000000000
+      internalID: -2597934061167285516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponPack2_86
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 218
+        width: 110
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9b7601527be6fb0800000000000000
+      internalID: -4652579995210237532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponPack2_87
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 318
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05b84809c6e02c50800000000000000
+      internalID: 6638559601845908746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponPack2_88
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 113
+        width: 53
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3671968546004a0800000000000000
+      internalID: -6629188320606329938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponPack2_89
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 316
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7e7f5d94ec71780800000000000000
+      internalID: -8712268137607206947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponPack2_90
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 311
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f779bbd2dfb468140800000000000000
+      internalID: 4721544810110621567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponPack2_91
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 321
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d26c6edb3dea070800000000000000
+      internalID: 8119659990769610087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponPack2_92
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 156
+        width: 224
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf47dc6df6846980800000000000000
+      internalID: -8546557769831460934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponPack2_93
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 40
+        width: 74
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a97cc49b1c9b18d0800000000000000
+      internalID: -2874532294871451230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

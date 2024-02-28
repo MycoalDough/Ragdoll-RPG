@@ -1,0 +1,605 @@
+fileFormatVersion: 2
+guid: 5e0e6279906e1174dac05fbeb775d5f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3031943430790119778
+    second: MartianEnemyPack1_0
+  - first:
+      213: 7139708760677060217
+    second: MartianEnemyPack1_1
+  - first:
+      213: 7192151319785391839
+    second: MartianEnemyPack1_2
+  - first:
+      213: -6725054397433474047
+    second: MartianEnemyPack1_3
+  - first:
+      213: -6010900222239917620
+    second: MartianEnemyPack1_4
+  - first:
+      213: -2150876352779485900
+    second: MartianEnemyPack1_5
+  - first:
+      213: 4193033351828318059
+    second: MartianEnemyPack1_6
+  - first:
+      213: -2755126110778789081
+    second: MartianEnemyPack1_7
+  - first:
+      213: -1949645130423582841
+    second: MartianEnemyPack1_8
+  - first:
+      213: -623802140083501945
+    second: MartianEnemyPack1_9
+  - first:
+      213: -5152141033516072398
+    second: MartianEnemyPack1_10
+  - first:
+      213: -4520812260756696043
+    second: MartianEnemyPack1_11
+  - first:
+      213: -6754374300076945245
+    second: MartianEnemyPack1_12
+  - first:
+      213: 5443515879465863572
+    second: MartianEnemyPack1_13
+  - first:
+      213: -371740263799228980
+    second: MartianEnemyPack1_14
+  - first:
+      213: -7166629901375559786
+    second: MartianEnemyPack1_15
+  - first:
+      213: 1234471315955044237
+    second: MartianEnemyPack1_16
+  - first:
+      213: 6210396819587036129
+    second: MartianEnemyPack1_17
+  - first:
+      213: -8878392896465586589
+    second: MartianEnemyPack1_18
+  - first:
+      213: 6230863721130196431
+    second: MartianEnemyPack1_19
+  - first:
+      213: 4215037481011332735
+    second: MartianEnemyPack1_20
+  - first:
+      213: -4413971224183214437
+    second: MartianEnemyPack1_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MartianEnemyPack1_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2803
+        width: 23
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26103538c70a31a20800000000000000
+      internalID: 3031943430790119778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianEnemyPack1_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2771
+        width: 207
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e86ef3a47551360800000000000000
+      internalID: 7139708760677060217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianEnemyPack1_2
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 2850
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd64aaa0587afc360800000000000000
+      internalID: 7192151319785391839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianEnemyPack1_3
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 2791
+        width: 48
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1049cc908aecba2a0800000000000000
+      internalID: -6725054397433474047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianEnemyPack1_5
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 2803
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d7acc5a5d8622e0800000000000000
+      internalID: -2150876352779485900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianEnemyPack1_6
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 2810
+        width: 25
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67a71b2e95a03a30800000000000000
+      internalID: 4193033351828318059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianEnemyPack1_7
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 2771
+        width: 280
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72370a74663d3c9d0800000000000000
+      internalID: -2755126110778789081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianEnemyPack1_8
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2497
+        width: 753
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f3803651871f4e0800000000000000
+      internalID: -1949645130423582841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianEnemyPack1_9
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2541
+        width: 305
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784c136324fc757f0800000000000000
+      internalID: -623802140083501945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianEnemyPack1_10
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 2535
+        width: 118
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2328f88f60bef78b0800000000000000
+      internalID: -5152141033516072398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianEnemyPack1_11
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 2519
+        width: 26
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514dd5d7339d241c0800000000000000
+      internalID: -4520812260756696043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianEnemyPack1_12
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 2676
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0d2eb3c54a342a0800000000000000
+      internalID: -6754374300076945245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianEnemyPack1_13
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 2553
+        width: 220
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499c2c4f9d04b8b40800000000000000
+      internalID: 5443515879465863572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianEnemyPack1_14
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 2614
+        width: 42
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5798b133057daf0800000000000000
+      internalID: -371740263799228980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianEnemyPack1_15
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 2494
+        width: 422
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69721db33140b8c90800000000000000
+      internalID: -7166629901375559786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianEnemyPack1_16
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1936
+        width: 294
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fc8e01f19b12110800000000000000
+      internalID: 1234471315955044237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianEnemyPack1_17
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1962
+        width: 400
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e373b9d003cf2650800000000000000
+      internalID: 6210396819587036129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianEnemyPack1_20
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 2062
+        width: 69
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7643aab142de7a30800000000000000
+      internalID: 4215037481011332735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianEnemyPack1_21
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1999
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e63cdce8c6eb2c0800000000000000
+      internalID: -4413971224183214437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

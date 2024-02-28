@@ -1,0 +1,944 @@
+fileFormatVersion: 2
+guid: e8f335674d015004fabe5b0593d30546
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5393507962816860126
+    second: Forrest1_0
+  - first:
+      213: -5044941254532941920
+    second: Forrest1_1
+  - first:
+      213: 1966391381338710087
+    second: Forrest1_2
+  - first:
+      213: 6504150632156287672
+    second: Forrest1_3
+  - first:
+      213: 3478839312258299342
+    second: Forrest1_4
+  - first:
+      213: -2667037876214687687
+    second: Forrest1_5
+  - first:
+      213: -7799260923591400536
+    second: Forrest1_6
+  - first:
+      213: 9117240066178119904
+    second: Forrest1_7
+  - first:
+      213: -2138698240619071226
+    second: Forrest1_8
+  - first:
+      213: 4247236257334963857
+    second: Forrest1_9
+  - first:
+      213: 2725488165553588278
+    second: Forrest1_10
+  - first:
+      213: 713010089624406495
+    second: Forrest1_11
+  - first:
+      213: -8635915415276620666
+    second: Forrest1_12
+  - first:
+      213: -8317173953452734698
+    second: Forrest1_13
+  - first:
+      213: -4780288592333794966
+    second: Forrest1_14
+  - first:
+      213: 2523814048272423659
+    second: Forrest1_15
+  - first:
+      213: -8129178472260442749
+    second: Forrest1_16
+  - first:
+      213: -720065352537139850
+    second: Forrest1_17
+  - first:
+      213: 3469274265633091143
+    second: Forrest1_18
+  - first:
+      213: -2903151027808855194
+    second: Forrest1_19
+  - first:
+      213: 6582048502898069372
+    second: Forrest1_20
+  - first:
+      213: 332331860648354667
+    second: Forrest1_21
+  - first:
+      213: -4919278154596360160
+    second: Forrest1_22
+  - first:
+      213: 7254272707133831917
+    second: Forrest1_23
+  - first:
+      213: -8785256395914930467
+    second: Forrest1_24
+  - first:
+      213: -1107501628427475733
+    second: Forrest1_25
+  - first:
+      213: 8232943220643563615
+    second: Forrest1_26
+  - first:
+      213: 1323899021342555352
+    second: Forrest1_27
+  - first:
+      213: 5760212642556695755
+    second: Forrest1_28
+  - first:
+      213: 4933356558257293746
+    second: Forrest1_29
+  - first:
+      213: 3673246897560642241
+    second: Forrest1_30
+  - first:
+      213: -5535830559502362352
+    second: Forrest1_31
+  - first:
+      213: -2298453347398109284
+    second: Forrest1_32
+  - first:
+      213: -1020983718545708103
+    second: Forrest1_33
+  - first:
+      213: 1931917070495399599
+    second: Forrest1_34
+  - first:
+      213: 4129855376529296075
+    second: Forrest1_35
+  - first:
+      213: 7834868949253585968
+    second: Forrest1_36
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Forrest1_2
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 2390
+        width: 49
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740651efa860a4b10800000000000000
+      internalID: 1966391381338710087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forrest1_3
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 2425
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2de4b1a82634a50800000000000000
+      internalID: 6504150632156287672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forrest1_4
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 2393
+        width: 157
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5f1dd3ce1574030800000000000000
+      internalID: 3478839312258299342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forrest1_5
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 2401
+        width: 108
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93816b1ae27ccfad0800000000000000
+      internalID: -2667037876214687687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forrest1_6
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 2401
+        width: 147
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3efb2238573c390800000000000000
+      internalID: -7799260923591400536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forrest1_7
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 2356
+        width: 82
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e87184f881f68e70800000000000000
+      internalID: 9117240066178119904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forrest1_8
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 2157
+        width: 161
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609b52e0841d152e0800000000000000
+      internalID: -2138698240619071226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forrest1_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2070
+        width: 485
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6384a5bdb01e2d520800000000000000
+      internalID: 2725488165553588278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forrest1_11
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 2051
+        width: 99
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9055916ee15e900800000000000000
+      internalID: 713010089624406495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forrest1_12
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1958
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684fd125fa0172880800000000000000
+      internalID: -8635915415276620666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forrest1_13
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 2120
+        width: 60
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61781590b56739c80800000000000000
+      internalID: -8317173953452734698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forrest1_14
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 2103
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6197123ad009adb0800000000000000
+      internalID: -4780288592333794966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forrest1_15
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 2082
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea1b625183660320800000000000000
+      internalID: 2523814048272423659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forrest1_16
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 2001
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385e92def3b5f2f80800000000000000
+      internalID: -8129178472260442749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forrest1_17
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1861
+        width: 356
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67515fe7060d106f0800000000000000
+      internalID: -720065352537139850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forrest1_18
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1736
+        width: 187
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ee6774096552030800000000000000
+      internalID: 3469274265633091143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forrest1_19
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1772
+        width: 245
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b9422958fe5b7d0800000000000000
+      internalID: -2903151027808855194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forrest1_21
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1596
+        width: 226
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b636d75011eac9400800000000000000
+      internalID: 332331860648354667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forrest1_22
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1422
+        width: 275
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020e1f3f4963bbbb0800000000000000
+      internalID: -4919278154596360160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forrest1_23
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1503
+        width: 258
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deaf584a79a5ca460800000000000000
+      internalID: 7254272707133831917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forrest1_24
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 931
+        width: 186
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd613ccaadf741680800000000000000
+      internalID: -8785256395914930467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forrest1_25
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1311
+        width: 199
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4e961032d51a0f0800000000000000
+      internalID: -1107501628427475733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forrest1_26
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1317
+        width: 353
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f588b6a3d3a414270800000000000000
+      internalID: 8232943220643563615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forrest1_27
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1233
+        width: 21
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc3c95452f6f5210800000000000000
+      internalID: 1323899021342555352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forrest1_28
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1141
+        width: 101
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc45e4621e260ff40800000000000000
+      internalID: 5760212642556695755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forrest1_29
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1233
+        width: 21
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b90545d6adc67440800000000000000
+      internalID: 4933356558257293746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forrest1_30
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 550
+        width: 468
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c26865779ef9f230800000000000000
+      internalID: 3673246897560642241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forrest1_31
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 557
+        width: 338
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0191c1caf67cc23b0800000000000000
+      internalID: -5535830559502362352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forrest1_32
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 575
+        width: 281
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c973787bbd04a10e0800000000000000
+      internalID: -2298453347398109284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forrest1_33
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 614
+        width: 89
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb20a6a7bcb4d1f0800000000000000
+      internalID: -1020983718545708103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forrest1_34
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 140
+        width: 288
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae3462075c8fca10800000000000000
+      internalID: 1931917070495399599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forrest1_35
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 98
+        width: 332
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca04c38591305930800000000000000
+      internalID: 4129855376529296075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forrest1_36
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 132
+        width: 320
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c7ff56ccb0bbc60800000000000000
+      internalID: 7834868949253585968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

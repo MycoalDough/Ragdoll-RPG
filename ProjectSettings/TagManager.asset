@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Target
+  - EnemyBullet
+  - Melee
+  - PlayerBullet
+  - PlayerMelee
+  - PlayerHeal
+  - TopTarget
+  - collideHeal
+  - Enemy
+  - PlayerFire
+  - PlayerFrost
+  - PlayerSummoningStaff
+  - PlayerTranquilizer
+  - PlayerMeleeCritable
+  - PlayerArrow
+  - ShadyMushroom
+  - ShootCoin
+  - BlindnessBerry
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Ground
+  - Enemy
+  - Dead
+  - NoPlayer
+  - EnemyBullet
+  - PlayerWeapon
+  - NoPlayerBullet
+  - PlayerBullet
+  - EnemyWeapon
+  - BuddyTM
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

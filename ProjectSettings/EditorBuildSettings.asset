@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: 671225d3743988141a60b8cf003ecfd5
+  - enabled: 1
+    path: Assets/Scenes/Forrest/Forrest1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Forrest/Forrest2.unity
+    guid: 835577ef11ff6b34892d1064b9b5b884
+  - enabled: 1
+    path: Assets/Scenes/Forrest/Forrest3.unity
+    guid: 109d3424ac6b95747b896ad0ab98633e
+  - enabled: 1
+    path: Assets/Scenes/Forrest/Forrest4.unity
+    guid: b2aa120ed8bdf074999b6794bf0da71b
+  - enabled: 1
+    path: Assets/Scenes/Forrest/KingBoss.unity
+    guid: eadc97a4dd5f36340b8acab7b30e0f37
+  - enabled: 1
+    path: Assets/Scenes/InfiniteLevel.unity
+    guid: 6415b714b5b045c48a5488d2e3e37a64
+  - enabled: 1
+    path: Assets/Scenes/TheGate.unity
+    guid: f04af63cf8230e1488d4212af8ac3b4e
+  - enabled: 1
+    path: Assets/Scenes/Forrest/OmegaBoss.unity
+    guid: 2497fa1a274045c45a75d542ad591ad5
+  - enabled: 1
+    path: Assets/Scenes/Forrest/JuggernautBoss.unity
+    guid: 2029a6f4a0b213d41a1cc9926528b648
+  - enabled: 1
+    path: Assets/Scenes/Martian/Martian1.unity
+    guid: 01673983716dc7341be6c1ce429d09b4
+  - enabled: 1
+    path: Assets/Scenes/Upgrades.unity
+    guid: 89c284c2787c0b144ad76d7ac1c296e3
+  m_configObjects: {}
